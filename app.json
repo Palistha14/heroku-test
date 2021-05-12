@@ -10,9 +10,8 @@
         "quantity": 1,
         "size": "standard-1x"
       }
-    },
+    },    
     "website": "https://github.com/heroku/heroku-buildpack-apt.git",
-    
     "buildpacks": [
       {
         "url": "https://github.com/barsoom/heroku-buildpack-shell-tools.git"
